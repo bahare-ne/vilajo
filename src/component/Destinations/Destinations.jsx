@@ -37,9 +37,7 @@ const Destinations = () => {
 
                         <div className="tozih-of-place">
                             <div className="svg">
-                                <svg className="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"> <path fill="rgb(0, 0, 0)" d="M128 252.6C128 148.4 214 64 320 64C426 64 512 148.4 512 252.6C512 371.9 391.8 514.9 341.6 569.4C329.8 582.2 310.1 582.2 298.3 569.4C248.1 514.9 127.9 371.9 127.9 252.6zM320 320C355.3 320 384 291.3 384 256C384 220.7 355.3 192 320 192C284.7 192 256 220.7 256 256C256 291.3 284.7 320 320 320z"/> </svg>
-                            </div>
-                            <div className="count-of-place">
+                                <svg className="svg-icon-place" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"> <path fill="rgb(0, 0, 0)" d="M128 252.6C128 148.4 214 64 320 64C426 64 512 148.4 512 252.6C512 371.9 391.8 514.9 341.6 569.4C329.8 582.2 310.1 582.2 298.3 569.4C248.1 514.9 127.9 371.9 127.9 252.6zM320 320C355.3 320 384 291.3 384 256C384 220.7 355.3 192 320 192C284.7 192 256 220.7 256 256C256 291.3 284.7 320 320 320z"/> </svg>
                                 <p className="count">
                                     160اقامتگاه
                                 </p>
@@ -48,14 +46,71 @@ const Destinations = () => {
                         
                     </div>
                 </div>
+
                 <div className="item2">
                     <img className="item1-1" src="/pic/IMG_20261007_184221_559.png"></img>
+                    <div className="item2-2">
+                    
+                        <div className="name-of-place">
+                            <p className="place">
+                                کردستان
+                            </p>
+                        </div>
+
+                        <div className="tozih-of-place">
+                            <div className="svg">
+                                <svg className="svg-icon-place" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"> <path fill="rgb(0, 0, 0)" d="M128 252.6C128 148.4 214 64 320 64C426 64 512 148.4 512 252.6C512 371.9 391.8 514.9 341.6 569.4C329.8 582.2 310.1 582.2 298.3 569.4C248.1 514.9 127.9 371.9 127.9 252.6zM320 320C355.3 320 384 291.3 384 256C384 220.7 355.3 192 320 192C284.7 192 256 220.7 256 256C256 291.3 284.7 320 320 320z"/> </svg>
+                                <p className="count">
+                                    160اقامتگاه
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
                 </div>
+
                 <div className="item3">
                     <img className="item1-1" src="/pic/IMG_20261006_234218_203.png"></img>
+                    <div className="item3-2">
+                    
+                        <div className="name-of-place">
+                            <p className="place">
+                                اصفهان
+                            </p>
+                        </div>
+
+                        <div className="tozih-of-place">
+                            <div className="svg">
+                                <svg className="svg-icon-place" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"> <path fill="rgb(0, 0, 0)" d="M128 252.6C128 148.4 214 64 320 64C426 64 512 148.4 512 252.6C512 371.9 391.8 514.9 341.6 569.4C329.8 582.2 310.1 582.2 298.3 569.4C248.1 514.9 127.9 371.9 127.9 252.6zM320 320C355.3 320 384 291.3 384 256C384 220.7 355.3 192 320 192C284.7 192 256 220.7 256 256C256 291.3 284.7 320 320 320z"/> </svg>
+                                <p className="count">
+                                    160اقامتگاه
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
                 </div>
+
                 <div className="item4">
                     <img className="item1-1" src="/pic/IMG_20261006_234216_188.png"></img>
+                    <div className="item4-2">
+                    
+                        <div className="name-of-place">
+                            <p className="place">
+                                کیش
+                            </p>
+                        </div>
+
+                        <div className="tozih-of-place">
+                            <div className="svg">
+                                <svg className="svg-icon-place" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"> <path fill="rgb(0, 0, 0)" d="M128 252.6C128 148.4 214 64 320 64C426 64 512 148.4 512 252.6C512 371.9 391.8 514.9 341.6 569.4C329.8 582.2 310.1 582.2 298.3 569.4C248.1 514.9 127.9 371.9 127.9 252.6zM320 320C355.3 320 384 291.3 384 256C384 220.7 355.3 192 320 192C284.7 192 256 220.7 256 256C256 291.3 284.7 320 320 320z"/> </svg>
+                                <p className="count">
+                                    160اقامتگاه
+                                </p>
+                            </div>
+                        </div>
+                        
+                    </div>
                 </div>
             </div>
 
