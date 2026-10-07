@@ -1,0 +1,108 @@
+.destinations{
+    margin-top: 70px;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.text-of-destination{
+    display: flex;
+    flex-direction: row;    
+    align-items: center;
+    justify-content: center;
+}
+.tozih-of-destination{
+    flex: 1;
+    direction: rtl;
+}
+.titr-of-destinations{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1px;
+}
+.titr-of-destinations1{
+    font-size: 16px;
+}
+.view-more{
+    flex: 1;
+    direction: rtl;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+}
+.view{
+    font-size: 16px;
+}
+.svg-arrow{
+    width: 20px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.item-of-popular-destination{
+    background-color: lightblue;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+}
+.item1{
+    direction: rtl;
+    position: relative;
+}
+.item1-1{
+    width: 100%;
+    height: 100%;
+    border-radius: 24px;
+}
+.item1-2{
+    background-color: #ffffff;
+    position: absolute;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.name-of-place{
+    flex: 1;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.place{
+    font-size: 16px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.tozih-of-place{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.count-of-place{
+    flex: 1;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.count{
+    font-size: 16px;
+    display: inline-block;
+    
+}
+.svg{
+    flex: 1;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.icon{
+    width: 20px;
+    display: inline-block;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.item2{
+    direction: rtl;
+}
+.item3{
+    direction: rtl;
+}
+.item4{
+    direction: rtl;
+}
