@@ -14,7 +14,8 @@ const Header = () =>{
                             /
                         </p>
                         <button className="login">
-                            ورود
+                           
+                            <a className="login" href="http://localhost:3000/login" target="_blank"> ورود</a>
                         </button>
 
                         <div className="svg-user">

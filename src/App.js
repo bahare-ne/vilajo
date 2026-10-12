@@ -1,19 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-import './component/Header/Header.css'
-import './component/Hero/Hero.css'
-import './component/Destinations/Destinations.css'
+import { BrowserRouter , Routes , Route } from "react-router-dom";
+import Home from "./pages/Home" ;
+import Login from "./pages/Login" ;
 
-import Header from"./component/Header/Header";
-import Hero from"./component/Hero/Hero";
-import Destinations from"./component/Destinations/Destinations";
 function App() {
   return (
-      <div>
-      <Header />
-      <Hero />
-      <Destinations />
-    </div>
+      <BrowserRouter>
+
+      <Routes>
+
+        <Route path="/" element = {<Home />}> </Route>
+        <Route path="/login" element = {<Login />}> </Route>
+
+      </Routes>
+
+    </BrowserRouter>
     
   );
 }

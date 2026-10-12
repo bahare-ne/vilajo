@@ -2,7 +2,7 @@ const Hero = () => {
 
     return(
         <div className="hero">
-            <img className="hero-pic" src="/pic/ZtlA4txjayybF8Unz32hQmq40_dT2LRktZPrq1atkGwW_NcUfFhgBryarqVYF_I1.jpeg">
+            <img className="hero-pic" src="/pic/h26wpZ_EsKaBXjge_68_minsAAJjTexeXik9pd9z5rBIG0jsm7tTEzJcafJbGOM.jpeg">
             </img>
 
             <div className="hero-info">
