@@ -1,0 +1,176 @@
+.contact-us{
+    height: 900px;
+}
+.contact-us-image{
+    width: 100%;
+    margin-top: 80px;
+    position: relative;
+}
+.contact-us-image1{
+    width: 100%;
+}
+.contact-us-image1 {
+    width: 100%;
+    -webkit-mask-image: linear-gradient(
+        to bottom,
+        black 90%,
+        transparent 100%
+    );
+
+    mask-image: linear-gradient(
+        to bottom,
+        black 90%,
+        transparent 100%
+    );
+}
+.contact-us-road{
+    direction: rtl;
+    margin-top: 110px;
+    width: 97%;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    top: -20px;
+}
+.contact-us-road1{
+    direction: rtl;
+    display: inline-block;
+}
+.contact-us-road2{
+    direction: rtl;
+    display: inline-block;
+}
+.road-angle-right{
+    display: inline-block;
+    width: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.contact-us-titr1{
+    position: absolute;
+    top: 140px;
+    direction: rtl;
+    font-size: 32px;
+    font-weight: bold;
+    color: #0F3D2E;
+    width: 97%;
+}
+.send-massage-and-communication{
+    direction: rtl;
+    width: 94%;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 30px;
+}
+.contact-send-massage , .contact-communication{
+    direction: rtl;
+    background-color: #FFFFFF;
+    padding: 5px 15px 5px 25px;
+    border-radius: 24px;
+    border: solid 1px #E6E2DA;
+    box-shadow: 0px 0px 10px #E6E2DA;
+}
+.contact-send-massage1 , .contact-communication1{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0F3D2E;
+    
+}
+.contact-send-massage2 , .contact-send-massage3{
+    margin-top: 10px;
+    width: 100%;
+    height: 45px;
+    border-radius: 16px;
+    border: solid 1px #E6E2DA;
+    padding-right: 5px;
+    display: inline-block;
+    outline: none;
+    color: #000000;
+}
+.contact-send-massage4{
+    margin-top: 10px;
+    width: 100%;
+    height: 70px;
+    padding-right: 6px;
+    padding-top: 15px;
+    resize: none;
+    font-size: 17px;
+    border-radius: 16px;
+    border: solid 1px #E6E2DA;
+    display: inline-block;
+    outline: none;
+    color: #000000;
+}
+.contact-send-massage5{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.contact-send-massage5-1{
+    width: 95%;
+    height: 42px;
+    border-radius: 16px;
+    border: solid 1px #000000;
+    color: white;
+    background-color: #0F3D2E;
+    font-size: 16px;
+    font-weight: bold;
+}
+.contact-communication2 , .contact-communication3 , .contact-communication4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.contact-communication3 , .contact-communication4{
+    margin-top: 0;
+}
+.contact-communication2-1{
+    width: 25px;
+    display: inline-block;
+}
+.contact-communication2-2{
+    font-size: 16px;
+    display: inline-block;
+    margin-right: 15px;
+}
+.contact-communication5{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.contact-communication5-1 , .contact-communication5-2 , .contact-communication5-3{
+    width: 40px;
+}
+.contact-communication5-2{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.map-container{
+    box-shadow: 0px 0px 10px #E6E2DA;
+    direction: rtl;
+    width: 94%;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 24px;
+    margin-top: 30px;
+}
+.map-container1{
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 24px;
+}
